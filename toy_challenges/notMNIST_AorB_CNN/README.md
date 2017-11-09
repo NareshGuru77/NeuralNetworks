@@ -7,3 +7,5 @@
 * The notebook now just loads the data using numpy and PIL..
 
 * The notMNIST_small.tar.gz file when needs to be extracted and put in the same location as the notebook...
+
+* Data source: [blog](http://yaroslavvb.blogspot.de/2011/09/notmnist-dataset.html) and [source](http://yaroslavvb.com/upload/notMNIST/)
